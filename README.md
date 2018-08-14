@@ -1,2 +1,2 @@
 # hero
-git@github.com:michaelwfors/heroku.git
+https://github.com/michaelwfors/heroku.git
