@@ -1,4 +1,5 @@
-# v2ray 一键部署 heroku [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+# v2ray 一键部署 heroku 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 V2ray-Core 3.9
 
 1.服务端部署后，应 open app ，显示 Bad Request，表示部署成功。
